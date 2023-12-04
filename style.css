@@ -21,6 +21,13 @@ h2 {
     /*border-bottom-style:;*/
 }
 
+h3 {
+    font-size: 1.2rem;
+    padding-bottom: 0.5em;
+    border-bottom : 2px solid lightgray;
+    /*border-bottom-style:;*/
+}
+
 main {
     display: grid;    /* css grid 사용 */
  /*   grid-template-columns: 40% 60%; /* 왼쪽 40%, 오른쪽 60% */
@@ -93,5 +100,18 @@ i {
 
 #project-date{
     margin-bottom: 1rem;
+}
+
+#Title1{
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 0.5em;
+    border-bottom : 2px solid lightgray;
+    /*border-bottom-style:;*/
+}
+
+#section{
+    border-bottom: 2px solid gray;
+
 }
 
